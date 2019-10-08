@@ -26,7 +26,7 @@
 /// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 /// THE SOFTWARE.
 
-class Converter {
+public class Converter {
   
   func convert(_ number: Int) -> String {
     var localNumber = number

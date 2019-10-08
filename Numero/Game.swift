@@ -41,7 +41,7 @@ class Game {
   var converter: Converter
   
   init() {
-    score = 0
+    score = -1
     attempt = 0
     numbersToConvert = []
     answersToDisplay = []
